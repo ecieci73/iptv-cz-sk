@@ -1,8 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,CT 24
-https://ct24.ceskatelevize.cz/#live
-
 #EXTINF:-1,Joj
 http://nn2.joj.sk/hls/joj-720.m3u8#EXTINF:-1,Joj Plus
 
