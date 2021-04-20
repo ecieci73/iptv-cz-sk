@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-1,Sk1
+https://www.rtv.sk/televizia/live-1
+
 #EXTINF:-1,Joj
 http://nn2.joj.sk/hls/joj-720.m3u8#EXTINF:-1,Joj Plus
 
@@ -9,11 +12,17 @@ http://nn2.joj.sk/hls/jojplus-540.m3u8
 #EXTINF:-1,Joj Family
 https://nn.geo.joj.sk/hls/family-360.m3u8
 
+#EXTINF:-1,Jojko
+https://nn.geo.joj.sk/hls/rik-360.m3u8
+
 #EXTINF:-1,Markiza
 http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 
 #EXTINF:-1,Wau
 http://nn2.joj.sk/hls/wau-540.m3u8
+
+#EXTINF:-1,Ta3
+https://www.ta3.com/live.html
 
 #EXTINF:-1,CT1
 http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8
