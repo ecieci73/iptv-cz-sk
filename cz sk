@@ -18,9 +18,6 @@ http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 #EXTINF:-1,Wau
 http://nn2.joj.sk/hls/wau-540.m3u8
 
-#EXTINF:-1,Ta3
-https://ta3.com/live.m3u8
-
 #EXTINF:-1,CT1
 http://213.151.233.20:8000/dna-5100-tv-pc/hls/4002v105.m3u8
 
