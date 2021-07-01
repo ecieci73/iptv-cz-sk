@@ -15,7 +15,7 @@ https://nn.geo.joj.sk/hls/rik-360.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.cdn.markiza.sk/media/3.0/mar/grf/header-markiza-logo.png" group-title="Slovakia",Markiza
 http://213.151.233.20:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 
-#EXTINF:-1,Wau
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CivJqLv.png" group-title="Slovakia",TV Wau
 http://nn2.joj.sk/hls/wau-540.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="Slovakia",CT 1
