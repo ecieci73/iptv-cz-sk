@@ -6,7 +6,7 @@ http://nn2.joj.sk/hls/joj-720.m3u8#EXTINF:-1,Joj Plus
 #EXTINF:-1,Joj Plus
 http://nn2.joj.sk/hls/jojplus-540.m3u8
 
-#EXTINF:-1,Joj Family
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.joj.sk/rx/d8243ddf9e64c682833f0d16a820d7e8.png" group-title="Slovakia",Joj Family
 https://nn.geo.joj.sk/hls/family-360.m3u8
 
 #EXTINF:-1,Jojko
