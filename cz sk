@@ -39,5 +39,5 @@ https://nova-live.ssl.cdn.cra.cz/channels/nova_cinema_avod/playlist/cze/live_hq.
 #EXTINF:-1,Filmbox
 http://213.151.233.20:8000/dna-6110-tv-pc/hls/4005v105.m3u8
 
-#EXTINF:-1,EuroSport 1
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.iptv-epg.com/gb/Eurosport1.uk.png" group-title="Czech Republic",EuroSports 1 Ceská
 http://213.151.233.20:8000/dna-6069-tv-pc/hls/4001v105.m3u8
