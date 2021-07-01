@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1,Joj
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.joj.sk/rx/logojoj.png" group-title="Slovakia",Joj
 http://nn2.joj.sk/hls/joj-720.m3u8#EXTINF:-1,Joj Plus
 
 #EXTINF:-1,Joj Plus
