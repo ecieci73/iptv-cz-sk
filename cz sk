@@ -13,7 +13,7 @@ https://nn.geo.joj.sk/hls/family-360.m3u8
 https://nn.geo.joj.sk/hls/rik-360.m3u8
 
 #EXTINF:-1 tvg-id="DuckTV.sk" tvg-country="SK" tvg-language="English" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="Kids",Duck TV (720p)
-https://mmm-ducktv-2-it.samsung.wurl.com/manifest/playlist.m3u
+https://mmm-ducktv-3-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://static.cdn.markiza.sk/media/3.0/mar/grf/header-markiza-logo.png" group-title="Slovakia",Markiza
 http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
