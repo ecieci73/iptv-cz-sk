@@ -9,7 +9,7 @@ https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
 #EXTINF:-1 tvg-id="JOJFamily.sk" tvg-name="JOJ Family" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="Family",JOJ Family
 https://nn.geo.joj.sk/hls/family-360.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",TV Markiza
+#EXTINF:-1 tvg-id="TVMarkiza.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static-media.streema.com/media/cache/da/4f/da4f346af8f63ae80914f9b565315cbe.jpg" group-title="Slovakia",TV Markíza (720p) [Geo-blocked]
 http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CivJqLv.png" group-title="Slovakia",TV Wau
@@ -30,6 +30,16 @@ http://79.106.48.2:4578/live/rtsh3mobp1/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="" group-title="",RTSH Film
 http://79.106.48.2:4578/live/rtsh_film_mob_p1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="DuckTV.sk" tvg-country="SK" tvg-language="English" tvg-logo="https://i.imgur.com/Qw8x6Os.png" group-title="Kids",Duck TV (720p)
-https://mmm-ducktv-3-es.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:-1 tvg-id="HRT1.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/W3FBVwT.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="Croatia",HRT 1 (720p)
+http://195.29.70.67/PLTV/88888888/224/3221226139/index.m3u8
+
+#EXTINF:-1 tvg-id="HRT2.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/7swOkC3.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="Croatia",HRT 2 (720p)
+http://195.29.70.67/PLTV/88888888/224/3221226140/index.m3u8
+
+#EXTINF:-1 tvg-id="HRT3.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/0hrv92c.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="Croatia",HRT 3 (720p)
+http://195.29.70.67/PLTV/88888888/224/3221226280/index.m3u8
+
+#EXTINF:-1 tvg-id="HRT4.hr" tvg-country="HR" tvg-language="Croatian" tvg-logo="https://i.imgur.com/UVFs4zA.png" user-agent="Mozilla/5.0 (X11; Linux i686; rv:90.0) Gecko/20100101 Firefox/90.0" group-title="Croatia",HRT 4 (720p)
+http://195.29.70.67/PLTV/88888888/224/3221226281/index.m3u8
+
 
