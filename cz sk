@@ -18,17 +18,6 @@ https://nn.geo.joj.sk/hls/wau-540.m3u8
 #EXTINF:-1 tvg-id="Joj Sport" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Slovakia",Joj Sport
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
 
-#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",AXN
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFPwpIBd9psGCasE94zRIRJk?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",CS MINI
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFLQ8t5BB8a8OjE00qUEhwkE?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Film Plus
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFIqnd2c7Fk6jGFJVW5yD2Ms?checkedby:iptvcat.com
-
-#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Filmbox Plus
-http://live.stevetv.com.au:80/play/S_Mvfx6vqLs7V-l046hiFEnADgmCH3e4ktgiBcKtjpw?checkedby:iptvcat.com
 
 
 
