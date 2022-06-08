@@ -9,23 +9,23 @@ https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
 #EXTINF:-1 tvg-id="JOJFamily.sk" tvg-name="JOJ Family" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://i.imgur.com/GyoWsNb.png" group-title="Family",JOJ Family
 https://nn.geo.joj.sk/hls/family-360.m3u8
 
-#EXTINF:-1 tvg-id="TVMarkiza.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static-media.streema.com/media/cache/da/4f/da4f346af8f63ae80914f9b565315cbe.jpg" group-title="Slovakia",TV Markíza (720p) 
-http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CivJqLv.png" group-title="Slovakia",TV Wau
-https://nn.geo.joj.sk/hls/wau-540.m3u8
-
 #EXTINF:-1 tvg-id="Joj Sport" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Slovakia",Joj Sport
 https://nn.geo.joj.sk/live/hls/rik-540.m3u8
 
-#EXTINF:-1 tvg-id="Filmbox" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",FilmBox
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147758?checkedby:iptvcat.net
+#EXTINF:-1 tvg-id="Joj Cinema" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Slovakia",Joj Cinema
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/248363?checkedby:iptvcat.net
 
-#EXTINF:-1 tvg-id="CS Historia" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",CS Historia
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147780?checkedby:iptvcat.net
+#EXTINF:-1 tvg-id="Joj Cinema+1" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Slovakia",Joj Cinema+1
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/248362?checkedby:iptvcat.net
 
-#EXTINF:-1 tvg-id="CS Mystery" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",CS Mystery
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/340497?checkedby:iptvcat.net
+#EXTINF:-1 tvg-id="TVMarkiza.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static-media.streema.com/media/cache/da/4f/da4f346af8f63ae80914f9b565315cbe.jpg" group-title="Slovakia",TV Markíza (720p) 
+http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
+
+#EXTINF:-1 tvg-id="Joj Markiza International" tvg-country="SK" tvg-language="Slovak" tvg-logo="" group-title="Slovakia",Markiza International
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275444?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CivJqLv.png" group-title="Slovakia",TV Wau
+https://nn.geo.joj.sk/hls/wau-540.m3u8
 
 #EXTINF:-1 tvg-id="CT1" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",CT1
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/236672?checkedby:iptvcat.net
@@ -39,17 +39,56 @@ http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/236675?checkedby:iptvcat.net
 #EXTINF:-1 tvg-id="CT24" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",CT24
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147772?checkedby:iptvcat.net
 
+#EXTINF:-1 tvg-id="Nova Fun" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",Nova Fun
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147786?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-id="Nova Cinema" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",Nova Cinema
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147788?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-id="Nova Gold" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",Nova Gold
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147789?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-id="Filmbox" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",FilmBox
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147758?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-id="Filmbox Family" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",FilmBox Family
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/314509?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-id="AXN" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",AXN
+http://revteam1.offshorerev.cc:80/4589061890229081/1beappCG7J/75766?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-id="CS Historia" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",CS Historia
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147780?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-id="CS Mystery" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",CS Mystery
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/340497?checkedby:iptvcat.net
+
 #EXTINF:-1 tvg-id="CT Sport" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",CT Sport
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/236674?checkedby:iptvcat.net
 
 #EXTINF:-1 tvg-id="CT/Art" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",CT/Art
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275415?checkedby:iptvcat.net
 
+#EXTINF:-1 tvg-id="tv barrandov" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",tv barrandov
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147757?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-id="tv HBO2" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",HBO2
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275435?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-id="tv Paprika" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",Paprika
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275475?checkedby:iptvcat.net
+
+#EXTINF:-1 tvg-id="tv Mnam TV" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",Mnam TV
+http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275446?checkedby:iptvcat.net
+
 #EXTINF:-1 tvg-id="Dajto" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",Dajto
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/275421?checkedby:iptvcat.net
 
 #EXTINF:-1 tvg-id="Doma" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",Doma
 http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147803?checkedby:iptvcat.net
+
+
+
 
 
 
