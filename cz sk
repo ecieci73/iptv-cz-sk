@@ -6,24 +6,9 @@ https://nn.geo.joj.sk/hls/joj-720.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/HoaqXik.png" group-title="Slovakia",Plus
 https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
 
-#EXTINF:-1 tvg-id="TVMarkiza.sk" tvg-country="SK" tvg-language="Slovak" tvg-logo="https://static-media.streema.com/media/cache/da/4f/da4f346af8f63ae80914f9b565315cbe.jpg" group-title="Slovakia",TV Markíza (720p) 
-http://ntv-st01-vod01-bts10-stage.orange.sk:8000/dna-5106-tv-pc/hls/4001v102.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://img.CT1.cz/rx/logojoj.png" group-title="Czech",CT1
-http://213.151.233.20:8000/dna-5100-tv-pc.m3u8
-
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CivJqLv.png" group-title="Slovakia",TV Wau
 https://nn.geo.joj.sk/hls/wau-540.m3u8
 
-#EXTINF:-1 tvg-id="Filmbox" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",FilmBox
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147758?checkedby:iptvcat.net
-
-#EXTINF:-1 tvg-id="CT Sport" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",CT Sport
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/236674?checkedby:iptvcat.net
-
-#EXTINF:-1 tvg-id="tv barrandov" tvg-country="Czech" tvg-language="Czech" tvg-logo="" group-title="Czech",tv barrandov
-http://tvalb.xyz:8080/9rht8uKGJs/sBN1pWJUhQ/147757?checkedby:iptvcat.net
 
 
 
