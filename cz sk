@@ -9,6 +9,139 @@ https://nn.geo.joj.sk/live/hls/jojplus-540.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.imgur.com/CivJqLv.png" group-title="Slovakia",TV Wau
 https://nn.geo.joj.sk/hls/wau-540.m3u8
 
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://flaglane.com/download/czech-flag/czech-flag-graphic.png" group-title="Undefined",#### Czech ####
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115453?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/AXNHD.cz.png" group-title="Undefined",AXN
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115455?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/AnimalPlanet.cz.png" group-title="Undefined",Animal Planet HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115454?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/Boomerang.cz.png" group-title="Undefined",Boomerang
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115456?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/CSFilm.cz.png" group-title="Undefined",CS Film
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115467?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/CT4SportHD.cz.png" group-title="Sport",CT4 Sport FHD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115460?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/CT1HD.cz.png" group-title="Undefined",Ct 1 FHD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115457?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/CT2HD.cz.png" group-title="Undefined",Ct 2 FHD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115458?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/CT24HD.cz.png" group-title="Undefined",Ct 24 FHD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115459?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/Dajto.cz.png" group-title="Undefined",Dajto
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115461?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/DiscoveryChannel.cz.png" group-title="Undefined",Discovery Channel
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115462?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/DuckTV.cz.png" group-title="Undefined",Duck TV
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115464?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/E!Entertaintment.cz.png" group-title="Undefined",E! Entertainment
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115465?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Elektrika TV
+http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/EpicDrama.png" group-title="Undefined",Epic Drama HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115466?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ;SK" tvg-logo="http://www.tvfashion.eu/wp-content/themes/Divi-child/images/logo-tvfashion-piatok.png" group-title="Fashion;Undefined",Fashion TV,FashionTV Czech&Slovak
+http://lb.streaming.sk/fashiontv/stream/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/FilmBoxFamily.cz.png" group-title="Undefined",Filmbox Family
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115468?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/FilmBoxPremium.cz.png" group-title="Undefined",Filmbox Premium
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115469?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/GolfChannel.cz.png" group-title="Sport",Golf Channel
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115471?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/HBO2HD.cz.png" group-title="Undefined",HBO 2 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115472?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/HBO3HD.cz.png" group-title="Undefined",HBO 3 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115473?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/HBOHD.cz.png" group-title="Undefined",HBO FHD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115474?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/JimJam.cz.png" group-title="Undefined",JimJam
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115476?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/JOJPlus.cz.png" group-title="Undefined",Joj Plus
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115478?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/MarkizaInternational.cz.png" group-title="Undefined",Markiza International
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115480?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/NovaActionHD.cz.png" group-title="Undefined",Nova Action FHD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115484?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/NovaHD.cz.png" group-title="Undefined",Nova FHD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115486?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/NovaGold.cz.png" group-title="Undefined",Nova Gold HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115487?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/NovaInternational.cz.png" group-title="Undefined",Nova International
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115488?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/NovaSport1HD.cz.png" group-title="Sport",Nova Sport 1 HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115489?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://polar.cz/images/layout/header/logo.png" group-title="Undefined",Polar TV
+https://stream.polar.cz/polar/polarlive-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/PrimaComedy.cz.png" group-title="Undefined",Prima Comedy
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115490?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/PrimaCoolHDcz.png" group-title="Undefined",Prima Cool HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115491?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/PrimaHD.cz.png" group-title="Undefined",Prima HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115492?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/PrimaZoomHD.cz.png" group-title="Undefined",Prima Zoom HD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115496?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/rebeltv.cz.png" group-title="Undefined",REBEL
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115497?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://www.smidlib.cz/obrazky/clanky/liberecky-eter/co-se-deje-v-eteru-libereckeho-kraje/logo-tv-rtm+.jpg" group-title="Undefined",RTM plus
+http://www.rtmplus.cz/live/1-playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/RetroMusicTV.cz.png" group-title="Undefined",Retro Music TV
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115498?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="Music",Retro Music Television
+http://89.185.253.55/retrotv/retrotvHQ1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i0.wp.com/willmckinley.files.wordpress.com/2014/05/logo.png?w=640" group-title="Music",Retro Music Television
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w119998573.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" group-title="Music",Retro Music Television
+http://stream.mediawork.cz/retrotv//retrotvHQ1/chunklist_w1911133387.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://tv.wurtlitzer.com/imagenes/canales/musica/retrotv.png" group-title="Music;Undefined",Retro Music Television,Retro TV
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" group-title="Music",Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1652320907.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" group-title="Music",Retro Music Television
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://www.o2tv.cz/assets/images/tv-logos/original/retro-music.png" group-title="Music",Retro Music Television
+http://bit.ly/2m3sY3Y?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",Retro Tv
+http://stream.mediawork.cz:1935/retrotv/retrotvHQ1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.postimg.cc/C53XtK5f/zaltv.png" group-title="Music",RetroMusicTV (360p)
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/sport1HD.cz.png" group-title="Sport",Sport 1 FHD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115502?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/Sport5.cz.png" group-title="Sport",Sport 5
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115503?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="http://panel.tivix.eu/logo1/Czechtv/Stingray_Brava.png" group-title="Undefined",Stingray Brava FHD
+http://platin4k.eu:80/kralkerim/8TKLyJivVEA/115504?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.imgur.com/zrB0y39.png" group-title="Undefined",TV Natura
+http://media1.tvnatura.cz/live_out/1/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Undefined",TV Natura (360p) [Not 24/7]
+https://media1.tvnatura.cz/live_out/1/live.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.iinfo.cz/images/409/v1-vychodoceska-televize-1.jpg" group-title="Undefined",Východočeská TV
+https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Music",Óčko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Music",Óčko
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Music",Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Music",Óčko
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.imgur.com/QdtTIXF.png" group-title="Undefined",Óčko (Opt-2)
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko.stream.1.smil/master.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Music",Óčko Expres
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Music",Óčko Expres
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist/cze/live_hq.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://www.sms.cz/kategorie/televize/bmp/loga/velka/ocko-expres.png" group-title="Music",Óčko Expres (540p)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_expres/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="Music",Óčko Gold
+https://ocko-live-dash.ssl.cdn.cra.cz/cra_live2/ocko_gold.stream.1.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://i.imgur.com/nrWNyLc.jpg" group-title="Music",Óčko Gold (540p)
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Music",Óčko STAR
+http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="" group-title="Music",Óčko STAR
+https://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="CZ" tvg-logo="https://www.starnet.cz/tv/slagr2.png" group-title="Undefined",Šlágr 2
+http://92.62.234.233/slagr2.m3u#.m3u8?checkedby:iptvcat.com
+
 
 
 
